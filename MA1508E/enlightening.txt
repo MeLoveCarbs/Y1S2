@@ -1,0 +1,14 @@
+In Rn:
+
+If two vectors are linearly dependent their span is the line determined by the vectors (the line made by a vector starting at the origin).
+
+If two vectors are linearly independent their span is the plane.
+
+For three linearly independent vectors the span is the entire three dimensional space.
+
+If the three vectors are linearly dependent then it is either a plane or a line depending on "how linearly dependent" the vectors are.
+
+
+
+WHY zero vector must exist in a linear span: 
+Starting with a set of vectors {vi}, the span of that set is defined to be every vector which can be expressed as a linear combination of elements of the set.  The 'zero' in any particular context is always a linear combination of any set of elements, and in this context, the zero vector is a linear combination of any set of vectors. 0*(x,y,z) + 0*(a,b,c) for span{(x,y,z)+(a,b,c)}
