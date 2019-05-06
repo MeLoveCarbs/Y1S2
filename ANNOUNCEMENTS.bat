@@ -1,3 +1,3 @@
-cd C:\Users\Little Johnny\Desktop\IVLE_SYNC-master
+cd C:\Users\YOUR WORKING DIRECTORY HERE\IVLE_SYNC-master
 python ivle-sync.py a
 PAUSE
